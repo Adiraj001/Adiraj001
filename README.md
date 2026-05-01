@@ -17,8 +17,13 @@
 
 ## Recently Updated Projects
 
+### 🚦 RoadWatch.ai
+
+**RoadWatch.ai** is my latest highlighted project, focused on building an AI-powered road safety and monitoring solution.
+
 | Project | What It Does | Tech | Updated |
 | --- | --- | --- | --- |
+| RoadWatch.ai | AI-powered road safety and monitoring project. | AI / ML / Web | Recent |
 | [Instagram-Analyzer](https://github.com/Adiraj001/Instagram-Analyzer) | Browser-based tool that analyzes Instagram ZIP data locally to show blocked accounts, non-followers, hidden stories, pending requests, and more. | CSS / Web | Feb 4, 2026 |
 | [Jarvis](https://github.com/Adiraj001/Jarvis) | Python voice assistant for task automation, system control, and web search. | Python | Feb 4, 2026 |
 | [CSVTU-Result-Checker](https://github.com/Adiraj001/CSVTU-Result-Checker) | Web portal that redirects CSVTU students to official result and admit card pages using roll number and exam details. | HTML | Feb 1, 2026 |
