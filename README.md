@@ -1,31 +1,56 @@
-# Hi, I'm Aditya Raj Pandey 👋
+<div align="center">
 
-### Software Developer | Computer Science Enthusiast | Java, C++, Python & Web Development
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=210&section=header&text=Aditya%20Raj%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20Python%20%7C%20Java%20%7C%20ML&descAlignY=56&descSize=17)
 
-I'm a passionate software developer who enjoys building practical applications, desktop tools, games, and systems that solve real problems. I like working close to the fundamentals: object-oriented programming, data structures, algorithms, GUI development, and clean project structure.
+<img src="https://github.com/Adiraj001.png" width="140" height="140" alt="Aditya Raj Pandey profile image" style="border-radius: 50%;" />
 
-On GitHub as **Adiraj001**, I work across Java, C++, Python, web technologies, and machine learning experiments. My projects include banking systems, Java Swing applications, classic games, utilities, and recommender-system work.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=760&lines=Building+real-world+projects+with+Python%2C+Java+%26+ML;Desktop+Apps+%7C+Web+Tools+%7C+Machine+Learning;Learning+Every+Day+%E2%80%A2+Open+to+Collaboration)](https://git.io/typing-svg)
 
-## 🚀 What I Build
+[![GitHub](https://img.shields.io/badge/GitHub-Adiraj001-181717?style=for-the-badge&logo=github)](https://github.com/Adiraj001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adityarajpandey-adiraj)
+[![Instagram](https://img.shields.io/badge/Instagram-adiraj.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adiraj.exe)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajpandey20005@gmail.com)
 
-- Desktop applications and GUI tools using Java and Swing
-- Banking and management system projects with object-oriented design
-- Games and interactive projects that strengthen logic and fundamentals
-- Python and notebook-based experiments in data science and recommendations
-- Web projects using HTML, CSS, JavaScript, React, Vite, and related tools
+</div>
 
-## 📌 Featured Projects
+---
+
+## Recently Updated Projects
+
+| Project | What It Does | Tech | Updated |
+| --- | --- | --- | --- |
+| [Instagram-Analyzer](https://github.com/Adiraj001/Instagram-Analyzer) | Browser-based tool that analyzes Instagram ZIP data locally to show blocked accounts, non-followers, hidden stories, pending requests, and more. | CSS / Web | Feb 4, 2026 |
+| [Jarvis](https://github.com/Adiraj001/Jarvis) | Python voice assistant for task automation, system control, and web search. | Python | Feb 4, 2026 |
+| [CSVTU-Result-Checker](https://github.com/Adiraj001/CSVTU-Result-Checker) | Web portal that redirects CSVTU students to official result and admit card pages using roll number and exam details. | HTML | Feb 1, 2026 |
+| [DeepLearning-FlowerClassification](https://github.com/Adiraj001/DeepLearning-FlowerClassification) | CNN-based image recognition project for flower species classification. | Jupyter Notebook | Jan 25, 2026 |
+| [Deeplearning-PlantDisease-Classification](https://github.com/Adiraj001/Deeplearning-PlantDisease-Classification) | CNN-powered plant disease prediction project for crop health identification. | Jupyter Notebook | Dec 30, 2025 |
+
+## About Me
+
+I'm **Aditya Raj Pandey**, a software developer and computer science student from India. I build practical projects with **Python, Java, C++, web technologies, and machine learning**, with a focus on learning by creating real applications.
+
+I enjoy working on desktop apps, automation tools, web utilities, machine learning experiments, and classic programming projects that strengthen core logic, OOP, data structures, and problem-solving.
+
+<div align="center">
+
+![Coding Animation](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+</div>
+
+## Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [BasicBankingSystem](https://github.com/Adiraj001/BasicBankingSystem) | Banking system project focused on core programming and system logic. | C++ |
+| [GeminiPDF-Chat](https://github.com/Adiraj001/GeminiPDF-Chat) | AI-powered chatbot that lets users upload PDFs and ask questions about their content. | Python / Streamlit / Gemini |
+| [Movie-Recommender-System](https://github.com/Adiraj001/Movie-Recommender-System) | Content-based movie recommender using metadata and similarity techniques. | Python / Scikit-learn |
+| [SnakeGame-2.0](https://github.com/Adiraj001/SnakeGame-2.0) | Python Snake game built with Pygame, smooth controls, sound effects, and scoring. | Python / Pygame |
+| [Java-Calculator](https://github.com/Adiraj001/Java-Calculator) | Desktop calculator application built using Java Swing. | Java |
 | [Notepad-Clone](https://github.com/Adiraj001/Notepad-Clone) | Java Swing notepad app with file operations and text editing features. | Java |
 | [DigitalClock](https://github.com/Adiraj001/DigitalClock) | Simple Java Swing digital clock with real-time updates. | Java |
-| [BankManagement-System](https://github.com/Adiraj001/BankManagement-System) | Java-based banking management project for account and transaction workflows. | Java |
-| [SnakeGame](https://github.com/Adiraj001/SnakeGame) | Classic Snake game built with Java Swing and OOP concepts. | Java |
-| [DisneyMovies-Recommender-System](https://github.com/Adiraj001/DisneyMovies-Recommender-System) | Movie recommendation experiment using data and filtering techniques. | Jupyter Notebook |
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,28 +73,34 @@ On GitHub as **Adiraj001**, I work across Java, C++, Python, web technologies, a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## 📚 Currently Focused On
+</div>
 
-- Strengthening data structures, algorithms, and problem-solving
-- Building cleaner Java and C++ applications
-- Improving full-stack development skills
-- Exploring machine learning and recommendation systems
-- Creating projects that are useful, readable, and easy to extend
+## Current Focus
 
-## 🌐 Connect With Me
+- Building practical Python, Java, and web projects
+- Strengthening DSA, OOP, and software design fundamentals
+- Exploring machine learning and deep learning through hands-on projects
+- Improving project documentation, UI polish, and deployment readiness
+- Collaborating on useful open-source and student-friendly tools
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adiraj001-181717?style=for-the-badge&logo=github)](https://github.com/Adiraj001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raj%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/adityarajpandey-adiraj)
-[![Instagram](https://img.shields.io/badge/Instagram-adiraj.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adiraj.exe)
-[![Email](https://img.shields.io/badge/Email-adityarajpandey20005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajpandey20005@gmail.com)
+## GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Adiraj001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Adiraj001&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Adiraj001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Adiraj001&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj001&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ---
 
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:6C63FF,100:0A66C2&height=120&section=footer)
+
 [![](https://visitcount.itsvg.in/api?id=Adiraj001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
